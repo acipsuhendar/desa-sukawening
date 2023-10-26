@@ -18,7 +18,7 @@ import Sidebar from "../components/Sidebar.vue";
         “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
         Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
         dan Ketaqwaan”
-      </p>
+      </p> <br><br>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
