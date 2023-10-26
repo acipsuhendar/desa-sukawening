@@ -22,6 +22,11 @@ const router = createRouter({
       name: "Map",
       component: MapView,
     },
+    {
+      path: "/perangkat",
+      name: "Map",
+      component: PerangkatView,
+    },
   ],
 });
 
