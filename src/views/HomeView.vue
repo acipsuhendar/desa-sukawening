@@ -58,20 +58,6 @@ import Sidebar from "../components/Sidebar.vue";
           Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
           penyimpangan dan kebocoran;
         </li>
-        <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
-        </li>
-        <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
-        </li>
-        <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
-        </li>
       </ul>
     </div>
   </main>

@@ -10,7 +10,7 @@ import Sidebar from "../components/Sidebar.vue";
   <main class="flex">
     <Sidebar />
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold my-4">Struktur Desa</p>
+      <p class="text-3xl font-semibold my-4">Struktur Desa Sukawening</p>
       <img src="@/assets/strukturdesa.png" alt="" />
     </div>
   </main>
