@@ -18,6 +18,11 @@ const router = createRouter({
       component: AboutView,
     },
     {
+      path: "/perangkat",
+      name: "Perangkat",
+      component: PerangkatView,
+    },
+    {
       path: "/map",
       name: "Map",
       component: MapView,
