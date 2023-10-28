@@ -19,7 +19,7 @@
     <div
       class="text-lg py-4 px-1 border-b border-slate-200 text-[#00074e] font-semibold cursor-pointer"
     >
-      <router-link to="/perangkat">Data Perangakat</router-link>
+      <router-link to="/perangkat">Data Perangkat</router-link>
     </div>
   </div>
 </template>
