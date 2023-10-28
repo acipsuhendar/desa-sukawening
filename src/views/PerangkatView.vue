@@ -21,7 +21,7 @@ import Sidebar from "../components/Sidebar.vue";
         <tr>
           <td>1</td> <td><img src="../assets/jarkasih.jpeg" width="100"></td><td>Jarkasih</td><td>Kepala Desa </td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02 Desa Sukawening Kec. Dramaga Bogor</td>
         </tr>
-
+      </table>
       <p class="text-lg font-semibold">Data Perangkat Desa</p>
       <table>
         <tr>
