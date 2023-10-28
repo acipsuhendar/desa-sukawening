@@ -25,7 +25,13 @@ import Sidebar from "../components/Sidebar.vue";
           <th>No</th><th>Nama</th><th>Jabatan</th><th>jenis Kelamin</th><th>Alamat</th>
         </tr>
           <tr>
-          <td>1</td><td>Sabiludin</td><td>Sekretaris Desa</td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02</td>
+          <td>1</td><td>Sabiludin</td><td>Sekretaris Desa</td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02 Desa Sukawening Kec. Dramaga Bogor</td>
+        </tr>
+        <tr>
+          <td>2</td><td>Rina Adriyanti </td><td> Kaur Keuangan </td><td>Perempuan</td><td>Kp. Sukabakti RT. 03/02 Desa Sukawening Kec. Dramaga Bogor</td>
+        </tr>
+         <tr>
+          <td>2</td><td>Ujang Suhandi </td><td> Kaur Perencanaan </td><td>Laki-Laki</td><td>Kp. Cibeuruem Kalong RT. 01/05 Desa Sukawening Kec. Dramaga Bogor</td>
         </tr>
       </table>
     </div>
@@ -36,7 +42,7 @@ import Sidebar from "../components/Sidebar.vue";
 body {
   background: #f1f1f1;
 }
-table,{
+table{
   border : 1px solid grey;
 }
 </style>
