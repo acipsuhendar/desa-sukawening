@@ -19,7 +19,7 @@ import Sidebar from "../components/Sidebar.vue";
           <th>No</th><th>Photo</th><th>Nama</th><th>Jabatan</th><th>jenis Kelamin</th><th>Alamat</th>
         </tr>
         <tr>
-          <td>1</td> <td><img src="../assets/jarkasih.jpeg" width="100"></td><td>Jarkasih</td><td>Kepala Desa </td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02 Desa Sukawening Kec. Dramaga Bogor</td>
+          <td>1</td> <td><img src="../assets/jarkasih.jpeg" width="100"></td><td>Jarkasih,SIP</td><td>Kepala Desa </td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02 Desa Sukawening Kec. Dramaga Bogor</td>
         </tr>
       </table>
       <p class="text-lg font-semibold">Data Perangkat Desa</p>
