@@ -15,7 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
+        “Terwujudnya Desa Sukawening  Yang Sejahtera dan Mandiri, ditopang Kinerja
         Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
         dan Ketaqwaan”
       </p> <br><br>
