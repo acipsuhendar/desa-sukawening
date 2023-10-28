@@ -48,7 +48,7 @@ import Sidebar from "../components/Sidebar.vue";
 body {
   background: #f1f1f1;
 }
-td{
+table, td{
   border : 1px solid black;
 }
 </style>
