@@ -22,7 +22,10 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Data Perangkat Desa</p>
       <table>
         <tr>
-          <td>No</td><td>Nama</td><td>jenis Kelamin</td><td>Alamat</td>
+          <th>No</th><th>Nama</th><th>Jabatan</th><th>jenis Kelamin</th><th>Alamat</th>
+        </tr>
+          <tr>
+          <td>1</td><td>Sabiludin</td><td>Sekretaris Desa</td><td>Laki-laki</td><td>Kp. Sukabakti RT. 03/02</td>
         </tr>
       </table>
     </div>
@@ -32,5 +35,8 @@ import Sidebar from "../components/Sidebar.vue";
 <style>
 body {
   background: #f1f1f1;
+}
+table,{
+  border : 1px solid grey;
 }
 </style>
